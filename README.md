@@ -441,213 +441,94 @@ Security is one of the core pillars of UniThrift.
 * Secure Buyer-Seller Communication
 
 
-# Installation
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/Samriddha0207/UniThrift.git
-```
-
-Move into the project directory
-```bash
-cd UniThrift
-```
-
----
-
-## Install Dependencies
-
-Backend
-
-```bash
-npm install
-```
-
-If your frontend is inside a separate folder
-
-```bash
-cd client
-npm install
-```
-
 ## Environment Variables not included (To be added)
 
-## Run the Backend
 
-```bash
-node server.js
-```
+#  Performance Goals
 
----
+UniThrift is designed with the following key objectives:
 
-## Access the Application
+* **Fast Page Load:** Optimized lightweight components and asset delivery.
+* **Fully Responsive:** Seamless layout across desktop, tablet, and mobile browsers.
+* **Secure Authentication:** Robust user verification powered by Supabase.
+* **Intelligent AI Assistance:** Instant, reliable insights via Google Gemini AI.
+* **Scalable Architecture:** Designed for easy onboarding of multi-campus communities.
 
-After both servers are running, open your browser and navigate to:
+#  Business Model
 
-```
-http://localhost:3000
----
+UniThrift is built to be a sustainable and scalable platform with multiple revenue avenues while remaining affordable for students.
 
-# Performance Goals
+###  Campus Partnerships
 
-UniThrift is designed with the following objectives:
+* Official campus second-hand marketplace integration
+* End-of-semester hostel clearance sales
+* College merchandise & book distribution
+* Student resource exchange programs
 
-* Fast page loading
-* Responsive on all devices
-* Secure authentication
-* Intelligent AI assistance
-* Scalable backend architecture
-* Easy deployment for multiple colleges
+###  Transaction Services *(Planned for V2)*
 
-# Business Model
+* A nominal convenience fee on successful peer-to-peer transactions after secure payment gateway integration.
 
-UniThrift is designed to be a sustainable and scalable platform with multiple revenue streams while keeping the marketplace affordable for students.
+###  Sponsored Promotions
 
+* Student-focused brand partnerships (Electronics, Stationery, Coaching Institutes, Student Discounts).
 
-## Campus Partnerships
+###  Future Opportunities
 
-Partnering with colleges enables:
+* AI-powered dynamic pricing recommendations
+* Premium buyer/seller badges
+* Campus ambassador network
+* Campus-to-campus delivery partnerships
 
-* Official Campus Marketplace
-* Hostel Clearance Sales
-* College Merchandise
-* Student Exchange Programs
-* Campus Events Marketplace
+#  Impact Across Domains
 
+* ** Environmental Impact:** Reduces e-waste and promotes a circular campus economy by extending product lifecycles.
+* ** Student Impact:** Reduces cost of living by making textbooks, electronics, and hostel supplies affordable.
+* ** Community Impact:** Builds a high-trust, verified network of peer buyers and sellers on campus.
+* ** Technological Impact:** Introduces AI transparency into second-hand commerce, reducing online listing fraud.
 
-## Transaction Services *(Future)*
+#  Roadmap
 
-A small convenience fee may be introduced on successful transactions after integrating secure online payments. [COMING SOON IN V2]
+### Phase 1 — Core Platform *(Completed)*
 
----
+* [x] Student Marketplace & UI Setup
+* [x] Supabase User Authentication
+* [x] Product Listings & Dynamic Cart
+* [x] Seller Verification & Admin Dashboard
+* [x] Gemini AI Product Insights Integration
+* [x] Buyer–Seller Direct Communication
+* [x] Real-Time Push Notifications
 
-## Sponsored Promotions
+### Phase 2 — Future Scope *(In Development)*
 
-Brands targeting students can advertise:
-
-* Electronics
-* Books
-* Stationery
-* Coaching Institutes
-* Student Discounts
-* Educational Services
-
----
-
-## Future Revenue Opportunities                                                   
-
-* AI-powered pricing recommendations
-* Premium buyer memberships
-* Campus ambassador programs
-* Delivery partnerships
-* Subscription-based analytics
-
----
-
-# Impact in various domains
-
-### Environmental Impact
-
-* Reduce electronic waste
-* Promote reuse of quality products
-* Encourage sustainable consumption
-
-### Student Impact
-
-* Affordable education
-* Lower living expenses
-* Easier access to study materials
-* Better accessibility to electronics
-
-### Community Impact
-
-* Trusted student-to-student transactions
-* Stronger campus communities
-* Increased transparency through AI
-
-### Technological Impact
-
-* AI-assisted product insights
-* Reduced fraud
-* Smarter buying decisions
-* Better trust in second-hand commerce
-
----
-
-# Roadmap
-
-## Phase 1 
-
-* Student Marketplace
-* Authentication
-* Product Listings
-* Seller Profiles
-* Cart
-* AI Product Insights
-* Real-time Chat
-* Ratings & Reviews
-  
----
-
-# Phase 2 - Future Scope
-
-UniThrift aims to become India's largest student marketplace by expanding beyond individual campuses.
-
-Future enhancements include:
-
-* Razorpay/Stripe Payment Integration (Under Development)
-* Location-Based Product Discovery
-* AI-Based Price Prediction
-* Personalized Product Recommendations
-* Delivery Tracking
-* Real-Time Notifications
-* Native Android & iOS Apps
-* Multi-College Marketplace
-* Expansion to Universities Across India
-
----
+* [ ] Razorpay / Stripe Payment Gateway Integration
+* [ ] Location-Based Campus Discovery
+* [ ] AI-Based Price Prediction Engine
+* [ ] Personalized Product Recommendations
+* [ ] Multi-University Expansion Across India
+* [ ] Native Mobile App (Android & iOS)
 
 # 👥 Team
 
-## Team Members
+| **Contributor**         | **Roles & Responsibilities**                                                  |
+| ----------------------- | -------------------------------------------------------------------------     |
+| **Md Rizwaan Rahaman**  | Backend  • Server Management • Testing & Debugging  • Feature Testing         |
+| **Samriddha Chaudhury** | Deployment • Presentation • Frontend Development  • Architecture              |
 
-### Md Rizwaan Rahaman - Backend + Server Management + Testing + Debugging + Frontend
+#  Support & Contribution
 
-###  Samriddha Chaudhury - Deployment + Presentation + Frontend + Feature testing
+If you found this project helpful, feel free to 
 
+*  **Star** this repository
+*  **Fork** the project
+*  **Report** issues or bugs
+*  **Suggest** new features or improvements
 
-
-# Support the Project
-
-If you found this project useful,
-
-Star this repository
-
-Fork the project
-
-Report issues
-
-Suggest improvements
-
-Every contribution helps make UniThrift even better.
-
----
-
-<div align="center">
-
-# 🛍️ UniThrift
-
-### Buy Smart. Sell Smarter. Sustain Together.
-
-### Building India's Most Trusted Student Marketplace
 
 Made by
 
-### Md Rizwaan Rahaman
+**Md Rizwaan Rahaman** & **Samriddha Chaudhury**
 
-### Samriddha Chaudhury
 
-**⭐ Don't forget to star this repository if you liked our project! ⭐**
 
 </div>
